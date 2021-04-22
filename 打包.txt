@@ -1,0 +1,1 @@
+pyinstaller -i ./ui/title.ico -w 生成Excel2.py
